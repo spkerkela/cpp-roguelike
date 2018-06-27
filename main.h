@@ -2,6 +2,7 @@
 #define MAIN_H
 
 #include "entity.h"
+#include "world.h"
 #include <ncurses.h>
 
 const int WIDTH = 100;

@@ -4,6 +4,7 @@ int max_width = 0;
 int max_height = 0;
 
 void init() {
+  load_world("worlds/world1.world");
   initscr();
   clear();
   noecho();
